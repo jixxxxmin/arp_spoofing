@@ -1,7 +1,7 @@
 # ARP Spoofing
 
 - arp spoofing with python
-- arp response packet을 사용해 arp spoofing
+- arp response packet을 사용해 target의 arp cache table 변조
 
 
 ## use
